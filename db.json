@@ -1,0 +1,403 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "555-123-4567",
+      "location": "New York, NY"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "555-987-6543",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bobjohnson@example.com",
+      "phone": "555-456-7890",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "email": "alicewilliams@example.com",
+      "phone": "555-234-5678",
+      "location": "Houston, TX"
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "email": "davidbrown@example.com",
+      "phone": "555-876-5432",
+      "location": "Miami, FL"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Davis",
+      "email": "sarahdavis@example.com",
+      "phone": "555-345-6789",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 7,
+      "name": "Michael Wilson",
+      "email": "michaelwilson@example.com",
+      "phone": "555-765-4321",
+      "location": "Boston, MA"
+    },
+    {
+      "id": 8,
+      "name": "Emily Jones",
+      "email": "emilyjones@example.com",
+      "phone": "555-456-7890",
+      "location": "Seattle, WA"
+    },
+    {
+      "id": 9,
+      "name": "Robert Lee",
+      "email": "robertlee@example.com",
+      "phone": "555-654-3210",
+      "location": "Denver, CO"
+    },
+    {
+      "id": 10,
+      "name": "Linda Taylor",
+      "email": "lindataylor@example.com",
+      "phone": "555-987-6543",
+      "location": "Dallas, TX"
+    },
+    {
+      "id": 11,
+      "name": "William Anderson",
+      "email": "williamanderson@example.com",
+      "phone": "555-123-4567",
+      "location": "Phoenix, AZ"
+    },
+    {
+      "id": 12,
+      "name": "Mary Martinez",
+      "email": "marymartinez@example.com",
+      "phone": "555-234-5678",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "id": 13,
+      "name": "James Jackson",
+      "email": "jamesjackson@example.com",
+      "phone": "555-876-5432",
+      "location": "Atlanta, GA"
+    },
+    {
+      "id": 14,
+      "name": "Patricia Harris",
+      "email": "patriciaharris@example.com",
+      "phone": "555-345-6789",
+      "location": "San Diego, CA"
+    },
+    {
+      "id": 15,
+      "name": "Charles Martin",
+      "email": "charlesmartin@example.com",
+      "phone": "555-123-4567",
+      "location": "Austin, TX"
+    },
+    {
+      "id": 16,
+      "name": "Karen White",
+      "email": "karenwhite@example.com",
+      "phone": "555-234-5678",
+      "location": "San Antonio, TX"
+    },
+    {
+      "id": 17,
+      "name": "Thomas Thompson",
+      "email": "thomasthompson@example.com",
+      "phone": "555-654-3210",
+      "location": "Las Vegas, NV"
+    },
+    {
+      "id": 18,
+      "name": "Nancy Hall",
+      "email": "nancyhall@example.com",
+      "phone": "555-987-6543",
+      "location": "Orlando, FL"
+    },
+    {
+      "id": 19,
+      "name": "Joseph Adams",
+      "email": "josephadams@example.com",
+      "phone": "555-765-4321",
+      "location": "Portland, OR"
+    },
+    {
+      "id": 20,
+      "name": "Dorothy Young",
+      "email": "dorothyyoung@example.com",
+      "phone": "555-123-4567",
+      "location": "Miami, FL"
+    },
+    {
+      "id": 21,
+      "name": "Michael Davis",
+      "email": "michaeldavis@example.com",
+      "phone": "555-987-6543",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 22,
+      "name": "Betty King",
+      "email": "bettyking@example.com",
+      "phone": "555-234-5678",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": 23,
+      "name": "Richard Turner",
+      "email": "richardturner@example.com",
+      "phone": "555-456-7890",
+      "location": "New York, NY"
+    },
+    {
+      "id": 24,
+      "name": "Linda Young",
+      "email": "lindayoung@example.com",
+      "phone": "555-234-5678",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 25,
+      "name": "John Johnson",
+      "email": "johnjohnson@example.com",
+      "phone": "555-345-6789",
+      "location": "Dallas, TX"
+    },
+    {
+      "id": 26,
+      "name": "Cynthia Thomas",
+      "email": "cynthiathomas@example.com",
+      "phone": "555-123-4567",
+      "location": "Houston, TX"
+    },
+    {
+      "id": 27,
+      "name": "Michael Moore",
+      "email": "michaelmoore@example.com",
+      "phone": "555-987-6543",
+      "location": "San Diego, CA"
+    },
+    {
+      "id": 28,
+      "name": "Sandra Clark",
+      "email": "sandraclark@example.com",
+      "phone": "555-876-5432",
+      "location": "Phoenix, AZ"
+    },
+    {
+      "id": 29,
+      "name": "Robert Rodriguez",
+      "email": "robertrodriguez@example.com",
+      "phone": "555-456-7890",
+      "location": "Denver, CO"
+    },
+    {
+      "id": 30,
+      "name": "Susan Harris",
+      "email": "susanharris@example.com",
+      "phone": "555-654-3210",
+      "location": "Seattle, WA"
+    },
+    {
+      "id": 31,
+      "name": "Paul Taylor",
+      "email": "paultaylor@example.com",
+      "phone": "555-123-4567",
+      "location": "Boston, MA"
+    },
+    {
+      "id": 32,
+      "name": "Karen Scott",
+      "email": "karenscott@example.com",
+      "phone": "555-234-5678",
+      "location": "Austin, TX"
+    },
+    {
+      "id": 33,
+      "name": "Steven Lewis",
+      "email": "stevenlewis@example.com",
+      "phone": "555-876-5432",
+      "location": "Las Vegas, NV"
+    },
+    {
+      "id": 34,
+      "name": "Donna Allen",
+      "email": "donnaallen@example.com",
+      "phone": "555-345-6789",
+      "location": "San Antonio, TX"
+    },
+    {
+      "id": 35,
+      "name": "Joseph Young",
+      "email": "josephyoung@example.com",
+      "phone": "555-123-4567",
+      "location": "Orlando, FL"
+    },
+    {
+      "id": 36,
+      "name": "Nancy King",
+      "email": "nancyking@example.com",
+      "phone": "555-654-3210",
+      "location": "Portland, OR"
+    },
+    {
+      "id": 37,
+      "name": "David White",
+      "email": "davidwhite@example.com",
+      "phone": "555-987-6543",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "id": 38,
+      "name": "Betty Jackson",
+      "email": "bettyjackson@example.com",
+      "phone": "555-876-5432",
+      "location": "Atlanta, GA"
+    },
+    {
+      "id": 39,
+      "name": "Thomas Moore",
+      "email": "thomasmoore@example.com",
+      "phone": "555-456-7890",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": 40,
+      "name": "Linda Martinez",
+      "email": "lindamartinez@example.com",
+      "phone": "555-345-6789",
+      "location": "Miami, FL"
+    },
+    {
+      "id": 41,
+      "name": "James Davis",
+      "email": "jamesdavis@example.com",
+      "phone": "555-987-6543",
+      "location": "New York, NY"
+    },
+    {
+      "id": 42,
+      "name": "Karen Hall",
+      "email": "karenhall@example.com",
+      "phone": "555-123-4567",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 43,
+      "name": "Daniel Jackson",
+      "email": "danieljackson@example.com",
+      "phone": "555-234-5678",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": 44,
+      "name": "Susan Harris",
+      "email": "susanharris@example.com",
+      "phone": "555-654-3210",
+      "location": "Houston, TX"
+    },
+    {
+      "id": 45,
+      "name": "William Clark",
+      "email": "williamclark@example.com",
+      "phone": "555-345-6789",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 46,
+      "name": "Michelle Anderson",
+      "email": "michelleanderson@example.com",
+      "phone": "555-987-6543",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 47,
+      "name": "Michael Lee",
+      "email": "michaellee@example.com",
+      "phone": "555-456-7890",
+      "location": "Dallas, TX"
+    },
+    {
+      "id": 48,
+      "name": "Linda Young",
+      "email": "lindayoung@example.com",
+      "phone": "555-123-4567",
+      "location": "Seattle, WA"
+    },
+    {
+      "id": 49,
+      "name": "Joseph Smith",
+      "email": "josephsmith@example.com",
+      "phone": "555-876-5432",
+      "location": "Denver, CO"
+    },
+    {
+      "id": 50,
+      "name": "Susan Anderson",
+      "email": "susananderson@example.com",
+      "phone": "555-345-6789",
+      "location": "Boston, MA"
+    },
+    {
+      "id": 51,
+      "name": "David Davis",
+      "email": "daviddavis@example.com",
+      "phone": "555-654-3210",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 52,
+      "name": "Nancy Taylor",
+      "email": "nancytaylor@example.com",
+      "phone": "555-123-4567",
+      "location": "Austin, TX"
+    },
+    {
+      "id": 53,
+      "name": "James Anderson",
+      "email": "jamesanderson@example.com",
+      "phone": "555-987-6543",
+      "location": "Phoenix, AZ"
+    },
+    {
+      "id": 54,
+      "name": "Mary Martinez",
+      "email": "marymartinez@example.com",
+      "phone": "555-234-5678",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "id": 55,
+      "name": "Robert Smith",
+      "email": "robertsmith@example.com",
+      "phone": "555-456-7890",
+      "location": "Atlanta, GA"
+    },
+    {
+      "id": 56,
+      "name": "Sarah White",
+      "email": "sarahwhite@example.com",
+      "phone": "555-345-6789",
+      "location": "San Diego, CA"
+    },
+    {
+      "id": 57,
+      "name": "Daniel Johnson",
+      "email": "danieljohnson@example.com",
+      "phone": "555-876-5432",
+      "location": "Austin, TX"
+    }
+  ]
+}
